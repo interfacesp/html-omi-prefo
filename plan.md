@@ -14,4 +14,6 @@
 ##  CSS - Feuilles de Style - On met le style
 
 1. Centrage
-2. etc. 
+2. Couleur
+3. Bordures
+4. Etc.
