@@ -1,0 +1,12 @@
+1. Reprenez le code HTML dans "musiques.html", chaque chanson devrait être balisée 
+comme un titre. Pour chaque chanson, 
+donnez le nom d'artiste sous forme de titre niveau 2
+
+2. Reprenez le code HTML dans "films.html", écrivez les titres de films 
+sous forme de titre HTML 
+
+3. Idem "sports.html"
+
+4. Idem pour  "plats.html" 
+
+5. Idem pour  "stars.html" 
