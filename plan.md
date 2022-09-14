@@ -10,10 +10,12 @@
 8. Listes
 9. Liens hypertexte
 10. Images
+11. Formulaires
 
 ##  CSS - Feuilles de Style - On met le style
 
 1. Centrage
 2. Couleur
 3. Bordures
-4. Etc.
+4. Image de fond
+5. Etc.
