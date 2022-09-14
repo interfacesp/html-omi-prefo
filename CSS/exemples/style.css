@@ -1,0 +1,12 @@
+img {
+    width: 50%;
+}
+
+.centrage{
+    display: flex;
+    justify-content: center;
+}
+
+h1 {
+    text-align: center;
+}
