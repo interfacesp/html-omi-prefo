@@ -21,3 +21,17 @@ p{
     display: flex;
     justify-content: center;
 }
+
+.style-footer {
+    border-width: 2px;
+    border-style: solid;
+    background-color: blueviolet;
+}
+
+nav ul {
+    display: flex;
+    gap: 40px;
+    list-style-type: none;
+    justify-content: center;
+    
+}
